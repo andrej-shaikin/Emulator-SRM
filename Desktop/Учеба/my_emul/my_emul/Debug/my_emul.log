@@ -1,0 +1,33 @@
+﻿Построение начато 21.12.2017 10:40:29.
+     1>Проект "C:\Users\kiwib\Desktop\my_emul\my_emul\my_emul.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt emul.cpp
+         emul.cpp
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(58): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(69): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(78): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(107): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(115): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(118): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(125): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\emul.cpp(173): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\push_1.h(38): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\push_1.h(40): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\push_1.h(43): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\push_1.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\kiwib\desktop\my_emul\my_emul\push_1.h(58): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kiwib\Desktop\my_emul\Debug\my_emul.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\kiwib\Desktop\my_emul\Debug\my_emul.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kiwib\Desktop\my_emul\Debug\my_emul.lib" /MACHINE:X86 Debug\emul.obj
+         my_emul.vcxproj -> C:\Users\kiwib\Desktop\my_emul\Debug\my_emul.exe
+     1>Построение проекта "C:\Users\kiwib\Desktop\my_emul\my_emul\my_emul.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.62

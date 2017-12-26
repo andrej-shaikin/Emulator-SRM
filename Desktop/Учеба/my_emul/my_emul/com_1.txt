@@ -1,0 +1,16 @@
+.def <r> |3|
+.def <6> |6|
+.def <k> |90|
+pl:
+in
+out
+f:
+in
+out
+jmp $cs
+cs:
+inc[0]
+ldr[0]
+add[0]
+out
+jmp $start

@@ -1,0 +1,22 @@
+.DEF <A> |0|
+.DEF <R> |3|
+.DEF <6> |6|
+.DEF <K> |90|
+*
+START:
+IN
+STR[K]
+JMP $CS
+PL:
+IN
+OUT
+F:
+IN
+OUT
+JMP $CS
+CS:
+INC[0]
+LDR[0]
+ADD[0]
+OUT
+JMP $START

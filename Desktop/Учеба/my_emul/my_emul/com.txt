@@ -1,0 +1,7 @@
+.def <a> |0|
+*
+start:
+in
+str[k]
+.load "com_1.txt"
+jmp $cs
